@@ -6,3 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque magnam reic
 ## Configurndo git 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis, id, architecto accusamus rem libero nostrum est! Possimus magni dignissimos provident distinctio repudiandae quo voluptates, voluptate, natus iste deleniti laudantium repellendus.
 
+## Git cambios
