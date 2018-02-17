@@ -1,6 +1,6 @@
 ## Curso git desde cero
 
-### Flujo de trabajo basico en git
+## Flujo de trabajo basico en git
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque magnam reiciendis possimus cum, libero, aperiam alias officia nemo velit? Alias, odit, nam. Repellat corrupti placeat fugiat debitis, ullam. Obcaecati, illo.
 
 ## Configurndo git 
